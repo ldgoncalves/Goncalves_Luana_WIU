@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e36bf54-59ba-48eb-8926-d02b03ebf552" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WK2/MobileTemplate_fac5db5e-33eb-4920-ac66-eeff5ca9f1ea (1).ai" afterPath="$PROJECT_DIR$/WK2/MobileTemplate_fac5db5e-33eb-4920-ac66-eeff5ca9f1ea (1).ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WK1/MobileTemplate_fac5db5e-33eb-4920-ac66-eeff5ca9f1ea.ai" afterPath="$PROJECT_DIR$/WK1/MobileTemplate_fac5db5e-33eb-4920-ac66-eeff5ca9f1ea.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html" afterPath="$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2e36bf54-59ba-48eb-8926-d02b03ebf552" name="Default" comment="" />
     <ignored path="Goncalves_Luana_WIU.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5013298">
-              <caret line="50" column="90" selection-start-line="50" selection-start-column="90" selection-end-line="50" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.10239362">
+              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -280,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5013298">
-          <caret line="50" column="90" selection-start-line="50" selection-start-column="90" selection-end-line="50" selection-end-column="90" />
+        <state vertical-scroll-proportion="0.10239362">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
           <folding />
         </state>
       </provider>
