@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e36bf54-59ba-48eb-8926-d02b03ebf552" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WK3/DesktopTemplate.ai" afterPath="$PROJECT_DIR$/WK3/DesktopTemplate.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html" afterPath="$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2e36bf54-59ba-48eb-8926-d02b03ebf552" name="Default" comment="" />
     <ignored path="Goncalves_Luana_WIU.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.48138297">
-              <caret line="54" column="90" selection-start-line="54" selection-start-column="90" selection-end-line="54" selection-end-column="90" />
+              <caret line="54" column="84" selection-start-line="54" selection-start-column="84" selection-end-line="54" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -288,7 +284,7 @@
     <entry file="file://$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48138297">
-          <caret line="54" column="90" selection-start-line="54" selection-start-column="90" selection-end-line="54" selection-end-column="90" />
+          <caret line="54" column="84" selection-start-line="54" selection-start-column="84" selection-end-line="54" selection-end-column="84" />
           <folding />
         </state>
       </provider>
