@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e36bf54-59ba-48eb-8926-d02b03ebf552" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html" afterPath="$PROJECT_DIR$/WK1/WiU1505_Goncalves_Luana/index.html" />
-    </list>
+    <list default="true" id="2e36bf54-59ba-48eb-8926-d02b03ebf552" name="Default" comment="" />
     <ignored path="Goncalves_Luana_WIU.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,7 +196,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="567" y="23" width="819" height="873" extended-state="0" />
+    <frame x="567" y="23" width="819" height="873" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
